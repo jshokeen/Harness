@@ -1,0 +1,8 @@
+streamlit==1.66.0
+python-dotenv>=1.0,<2
+anthropic==0.125.0
+openai==2.54.0
+httpx==0.28.1
+pypdf==6.21.1
+google-auth==2.62.0
+requests>=2.27,<3

@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+harness.log
+.streamlit/secrets.toml
+# Service-account credentials may use arbitrary downloaded filenames.
+*.json
+*.pem
+*.key
+*.log
